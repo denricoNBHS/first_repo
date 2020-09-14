@@ -1,1 +1,3 @@
-board games
+European board games
+Card games
+MOBAs
